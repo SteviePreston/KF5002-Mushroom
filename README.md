@@ -5,4 +5,4 @@ A group solution using deep learning to classify mushrooms are edible or not, us
 
 Exporing with professional standards, such as agile development and following under a project manager to form a novel solution.
 
-Group consits of: Steven Preston (w18005080),Eve O'Brien (w18009288) & Philip Reed (w18011988)
+Group consits of: Steven Preston (w18005080), Eve O'Brien (w18009288) & Philip Reed (w18011988)
